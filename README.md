@@ -98,23 +98,26 @@ Example: `feature-assignment-1` → PR #1 → merged into `main`.
 ## 4. Screenshots / Evidence
 
 ### 4.1 Trello Board (Full View)
+<img width="1547" height="821" alt="Trello board (full view)" src="https://github.com/user-attachments/assets/024d768f-ae7d-4a17-9102-7d73bd1115c7" />
 
 Shows the four-list workflow (Backlog → To Do → In Progress → Done), card labels,
 due dates, and completed cards with merged PR indicators.
 
-![Trello board full view](img/trello-board.png)
+
 
 ### 4.2 GitHub Commit History
+<img width="1917" height="917" alt="github commit history" src="https://github.com/user-attachments/assets/cd267cf1-ecc0-4518-a7f4-b1191b414bad" />
 
 Shows regular commits on the `main` branch with meaningful messages, including a
 merged Pull Request (`Merge pull request #1 from feature/add-project-docs`).
 
-![GitHub commit history](img/github-commits.png)
+
 
 ### 4.3 Trello Card Linked to a GitHub PR
+<img width="1917" height="900" alt="trello card with PR" src="https://github.com/user-attachments/assets/1847baa7-c0b3-42a7-bfb7-93f2fb1f2227" />
 
 A completed card in the **Done** list ("Document: differences between Add, Commit
 and Push") with the `document` label, a due date, and the associated GitHub Pull
 Request linked below the description — demonstrating continuous tool usage.
 
-![Trello card with linked PR](img/trello-card-with-pr.png)
+
